@@ -16,7 +16,7 @@ html {
 #cover {
 	height: 100%;
 	padding-top: 60px;
-	background: url(../img/bkgd.jpg) no-repeat center bottom;
+	background: url(../img/bkgd.jpg) no-repeat center top;
 	background-size: cover;
 	overflow: auto;
 	color: #ffffff;
