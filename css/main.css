@@ -1,0 +1,21 @@
+/* Custom CSS rules to overide specific classes and ID's not covered in /less/custom.less */
+
+/*This is global*/
+/*Necessary for proper div height*/
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+#cover {
+	height: 100%;
+	background: url(../img/bkgd.jpg) no-repeat;
+	background-size: 100%;
+	overflow: auto;
+}
