@@ -27,6 +27,11 @@ html {
 	letter-spacing: 2px;
 }
 
+.cover-text a {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
 @media screen and (max-width: 550px){
 	.cover-text h1 {
 	font-size: 40pt;
