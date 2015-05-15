@@ -16,15 +16,17 @@ html {
 #cover {
 	height: 100%;
 	padding-top: 60px;
-	background: url(../img/bkgd_1400px.jpg) no-repeat center top;
+	background: url(../img/untitled.jpg) no-repeat center top;
 	background-size: cover;
 	overflow: auto;
 	color: #ffffff;
 }
 
-.cover-text h1 {
+h1 {
 	font-size: 80pt;
 	letter-spacing: 2px;
+	color: #f15f22;
+	mix-blend-mode: multiply;
 }
 
 .cover-text a {
@@ -33,8 +35,8 @@ html {
 }
 
 @media screen and (max-width: 550px){
-	.cover-text h1 {
-	font-size: 40pt;
+	h1 {
+	font-size: 50pt;
 	letter-spacing: 1px;
 	}
 }
